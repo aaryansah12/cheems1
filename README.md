@@ -23,7 +23,7 @@ You can also change the commands. For help ask in [Telegram Group](https://t.me/
 
 # How to deploy?
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anamaykashiv/JarvisMirror)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mirrorbottg/cheems)
 
 - Configs [Here](https://github.com/AbirHasan2005/Mirror-Magneto/tree/main#configs)
 - For any help ask in [Telegram Group](https://t.me/linux_repo):
